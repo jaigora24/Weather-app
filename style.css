@@ -5,3 +5,4 @@ body {background:url(https://i.pinimg.com/originals/1a/bf/79/1abf798f4b3e4022774
 #getWeatherForecast{width: 98%; height: 35px; border-radius: 30px; font-size: 20px; cursor: pointer;}
 #getWeatherForecast:hover{opacity: 0.6;}
 h1{font-size: 30px;}
+a{color:white;}
